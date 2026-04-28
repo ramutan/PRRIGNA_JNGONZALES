@@ -1,5 +1,5 @@
-# 🏃‍♂️ Neon Velocity: Endless Runner
-### **Programming 2 Final Project – Game Development**
+# 🏃‍♂️PixelDash :Endless Runner
+### **ProgrammingEnd 2 Final Project – Game Development**
 
 ---
 
